@@ -7,7 +7,8 @@ Required C packages:
 (3) cfitsio
 (4) gsl
 
-Installation:
+Installation: edit the path for the library files in makefile, then
+
 make
 
 Inputs:
