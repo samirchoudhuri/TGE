@@ -1,0 +1,10 @@
+1 128
+1000. 40. 45. 95. 0.8 -850 5
+1 1.
+25 1.0e-2
+
+#chan1 chan2
+#Umax(lamda) Umin(lamda) Ant_Dia(in m) Theta0(arcmin) f(taper) seed Nrea
+#flagLL (1=read LL 0=not read(-1.e8)) fac (freq.scaling)
+#Nbin cutoff(some small number)
+
