@@ -12,6 +12,7 @@ make
 
 Inputs:
 #BCHAN (start channel number)
+
 #ECHAN (end channel number)
 #Umax(lamda) (max baseline length in lambda unit)
 #Umin(lamda)  (min baseline length in lambda unit)
