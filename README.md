@@ -8,7 +8,6 @@ Required C packages:
 (4) gsl
 
 Installation:
-go to srcbin directory, run
 make
 
 Inputs:
