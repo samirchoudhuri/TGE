@@ -1,5 +1,5 @@
 # TGE
-This TGE package can be used to estimate the angular power spectrum of the sky signal from radio interferometric visibilities. Details algorithm can be found in "https://arxiv.org/abs/1609.01732"
+This Tapered Gridded Estimator (TGE) package can be used to estimate the angular power spectrum of the sky signal from radio interferometric visibilities. Details algorithm can be found in "https://arxiv.org/abs/1609.01732"
 
 Required C packages:
 (1) fftw3
